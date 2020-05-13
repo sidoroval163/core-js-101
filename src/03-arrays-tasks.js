@@ -599,7 +599,7 @@ function getElementByIndexes(arr, indexes) {
  *
  */
 function swapHeadAndTail(arr) {
-  console.log(arr);
+
   if (arr.length <= 1) {
     return arr;
   }
